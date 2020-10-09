@@ -10,7 +10,8 @@ Created interactive reports, visualizations and dashboards using powerBI
 	▪ Average daily rev 
 	
 # Dash Boards 
-	▪ Gross profit by product, year and country
+	▪ Gross profit analysis by product, year and country
+	▪ Units analysis by year, month and product
 
 # Formulas used in this project
 
@@ -23,6 +24,6 @@ Created interactive reports, visualizations and dashboards using powerBI
 
 
 # Here are links to dashboards:
-[Total revenue ](https://app.powerbi.com/groups/b16390c8-dc7f-4fc5-ab09-714012ece200/dashboards/bab5e57b-99b7-43fa-9fa7-30c6b203b919?ctid=ee327874-4c53-4afc-b9ff-7eff8190191a)
+[Reports](https://app.powerbi.com/groups/7aea0391-541a-4b86-97ec-dac690eb0521/dashboards/f338ceda-dbc8-4c6c-b9a7-98acc37fe3b9?ctid=ee327874-4c53-4afc-b9ff-7eff8190191a)
 
-[Gross profit and sales](https://app.powerbi.com/groups/b16390c8-dc7f-4fc5-ab09-714012ece200/dashboards/eb73f2d3-0f3f-4ebc-81e3-22c125726869?ctid=ee327874-4c53-4afc-b9ff-7eff8190191a)
+[Gross profit and Units analysis](https://app.powerbi.com/groups/7aea0391-541a-4b86-97ec-dac690eb0521/dashboards/10344176-46e1-4a70-8c59-d9dd75a2b741?ctid=ee327874-4c53-4afc-b9ff-7eff8190191a)
