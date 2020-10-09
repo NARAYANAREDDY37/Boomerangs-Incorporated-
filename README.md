@@ -3,12 +3,12 @@ Created interactive reports, visualizations and dashboards using powerBI
 
 # Reports created in this project 
 	▪ Total revenue by year, product and country
-	▪ Total cogs 
-	▪ Total gross profit = total rev - total cogs
-	▪ Gross profit % = Total gross profit / total rev
-	▪ Running total = cummulative toatal (adds each days total )
-Average daily rev = toatal revenue of that month/30 days
-
+	▪ Total COGS 
+	▪ Total gross profit 
+	▪ Gross profit percentage 
+	▪ Running total 
+	▪ Average daily rev 
+	
 # Dash Boards 
 	▪ Gross profit by product, year and country
 
