@@ -10,6 +10,7 @@ Created interactive reports, visualizations and dashboards using powerBI
 	▪ Average daily rev 
 	
 # Dash Boards 
+	▪ Revenue reports 
 	▪ Gross profit analysis by product, year and country
 	▪ Units analysis by year, month and product
 
