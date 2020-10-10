@@ -1,4 +1,4 @@
-# Gel-Boomerangs-Reports-visualizations-and-Dashboard
+# About Boomerangs Incorporated project
 Boomerangs Incorporated sells gel boomerangs in different sites like amazon, ebay etc,. The main task of the this project is to build revenue reports and interactive dashboards using excel and power BI. so, I have taken their sales data and created different reports and dashboards for client.
 
 
