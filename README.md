@@ -1,5 +1,6 @@
-# Gel-Boomerangs-Report-visualizations-and-Dashboard
-Created interactive reports, visualizations and dashboards using powerBI
+# Gel-Boomerangs-Reports-visualizations-and-Dashboard
+Boomerangs Incorporated sells gel boomerangs in different sites like amazon, ebay etc,. The main task of the this project is to build revenue reports and interactive dashboards using excel and power BI. so, I have taken their sales data and created different reports and dashboards for client.
+
 
 # Reports created in this project 
 	▪ Total revenue by year, product and country
