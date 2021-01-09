@@ -1,6 +1,20 @@
 # About Boomerangs Incorporated project
 Boomerangs Incorporated sells gel boomerangs in different sites like amazon, ebay etc,. The main task of the this project is to build revenue reports and interactive dashboards using excel and power BI. so, I have taken their sales data and created different reports and dashboards for client.
 
+# Steps Involved
+
+•	Extracted the Big Data from Amazon’s SQL server database and transformed using power query
+
+•	Loaded the data into columnar database and compressed 7.7 million rows of data into 25 megabytes
+
+•	Calculated columns and tables are created for building a star schema and hidden ineffective columns
+
+•	Created explicit DAX measures to use it in Data Model Pivot tables and charts
+
+•	Imported Data Models of Excel into Power BI desktop and created interactive reports and visualizations
+
+•	Published both the Excel and Power BI reports to powerbi.com and pinned the dashboards live
+
 
 # Reports created in this project 
 	▪ Total revenue by year, product and country
